@@ -1,4 +1,3 @@
-# 안녕하세요. 'Why'를 생각하는 프론트엔드 개발자입니다.
 
 <div align="center">
   <img src="![github](https://github.com/user-attachments/assets/16bcdc00-26a3-4a5a-b923-47f733f4eda6)" />&nbsp

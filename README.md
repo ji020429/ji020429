@@ -18,5 +18,5 @@
 </div>
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsy&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji020429&show_icons=true&theme=radical)

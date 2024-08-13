@@ -19,8 +19,13 @@
 
 <br>
 
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ji020429&show_icons=true&theme=graywhite" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=graywhite" width="42%" height="100%"/>
+</div>
 
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji020429&show_icons=true&theme=graywhite)
+

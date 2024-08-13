@@ -1,6 +1,5 @@
 
-![github2](https://github.com/user-attachments/assets/fc0f43c9-9d61-4108-86f7-388f6bd423f8)
-
+![github배너](https://github.com/user-attachments/assets/ecf37ae9-ea69-4e0b-a62f-0ddb3aa0c46c)
 
 <br>
 

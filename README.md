@@ -1,5 +1,8 @@
 
-<div align="center">
+<div align="center"><div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=b5e637&height=120&text=&animation=fadeIn&fontColor=000000&fontSize=40" />
+</div>
+    
   <img src="![github](https://github.com/user-attachments/assets/16bcdc00-26a3-4a5a-b923-47f733f4eda6)" />&nbsp
 </div>
 

@@ -6,9 +6,10 @@
 
 ![github](https://github.com/user-attachments/assets/81b71905-1d61-46b0-95c4-e1f12d405904)
 
+<br>
 
 <!--내용 부분-->
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h3 align="left">Tech Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp

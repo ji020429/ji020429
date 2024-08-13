@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+ ![github](https://github.com/user-attachments/assets/94b650ba-329f-4caa-abe0-e05986e0823b)
 </div>
 
 <!--내용 부분-->

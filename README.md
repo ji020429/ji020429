@@ -1,5 +1,3 @@
-## JI SU YEON's GITHUB
-
 <div align="center">
   <img src="![github](https://github.com/user-attachments/assets/16bcdc00-26a3-4a5a-b923-47f733f4eda6)" />&nbsp
 </div>
